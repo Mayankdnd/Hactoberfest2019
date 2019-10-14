@@ -62,3 +62,7 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### mayank
+[Mayankdnd](https://github.com/Mayankdnd/)
+>How do you fall out of array?
+---
